@@ -38,7 +38,7 @@ export function ResumeSection({ id }: ResumeSectionProps) {
             </h3>
             <ul className="list-disc list-inside text-foreground/80 space-y-2">
               <li>
-                <strong>Cloud Operations Engineer Intern</strong> at PTC (NASDAQ: PTC) – Pune, India (Remote) <span className="italic">(July 2025 – Present)</span>
+                <strong>Cloud Operations Engineer Intern</strong> at PTC (NASDAQ: PTC) – Gurgaon, India (Remote) <span className="italic">(July 2025 – Present)</span>
                 <ul className="list-disc list-inside ml-5 mt-2 text-sm space-y-1">
                   <li>
                     Ensured 99.9% availability for high-scale SaaS platforms via distributed monitoring.
