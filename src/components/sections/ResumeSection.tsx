@@ -55,7 +55,7 @@ export function ResumeSection({ id }: ResumeSectionProps) {
                 </ul>
               </li>
               <li>
-                Frontend Intern at Indibus Software Solutions pvt. ltd. (9th
+                <strong>Frontend Intern</strong> at Indibus Software Solutions pvt. ltd. (9th
                 June 2024 - 9th July 2024 )
               </li>
               {/* <li>Software Engineer at Innovate Co. (2018 - 2020)</li>
