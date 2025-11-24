@@ -38,6 +38,23 @@ export function ResumeSection({ id }: ResumeSectionProps) {
             </h3>
             <ul className="list-disc list-inside text-foreground/80 space-y-2">
               <li>
+                <strong>Cloud Operations Engineer Intern</strong> at PTC (NASDAQ: PTC) – Pune, India (Remote) <span className="italic">(July 2025 – Present)</span>
+                <ul className="list-disc list-inside ml-5 mt-2 text-sm space-y-1">
+                  <li>
+                    Ensured 99.9% availability for high-scale SaaS platforms via distributed monitoring.
+                  </li>
+                  <li>
+                    Mitigated Severity-0 incidents through root cause analysis (RCA) of Linux systems.
+                  </li>
+                  <li>
+                    Developed scripts to parse system logs, improving anomaly detection speed by 15%.
+                  </li>
+                  <li>
+                    Deployed patches across multi-region cloud instances in a CI/CD environment.
+                  </li>
+                </ul>
+              </li>
+              <li>
                 Frontend Intern at Indibus Software Solutions pvt. ltd. (9th
                 June 2024 - 9th July 2024 )
               </li>
