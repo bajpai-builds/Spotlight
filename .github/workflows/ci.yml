@@ -12,6 +12,9 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
+      - name: Create .env.local
+        run: |
+          echo "MONGODB_URI=${{ secrets.MONGODB_URI }}" > .env.local
       - name: Use Node.js
         uses: actions/setup-node@v4
         with:
